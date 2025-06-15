@@ -3,7 +3,6 @@ __pycache__/
 *.pyo
 *.log
 *.db
-*.h5
 *.wav
 .env
 .git
