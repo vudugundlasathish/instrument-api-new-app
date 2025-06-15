@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+*.h5
+*.wav
+.env
+.git
+data/
+models/
+tests/
