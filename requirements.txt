@@ -6,3 +6,11 @@ librosa
 soundfile
 python-multipart
 psutil
+
+# Vocal separation
+spleeter
+
+# Lyrics transcription
+openai-whisper
+
+# Whisper + Spleeter require ffmpeg system-wide (not installable via pip)
